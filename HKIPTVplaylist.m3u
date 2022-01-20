@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,RTHK31-1
+#EXTINF:-1 tvg-id="311" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 香港電台",RTHK31-1
 http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1,RTHK31-2
+#EXTINF:-1 tvg-id="312" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 香港電台",RTHK31-2
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1,RTHK32-1
+#EXTINF:-1 tvg-id="321" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",RTHK32-1
 http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1,RTHK32-2
+#EXTINF:-1 tvg-id="322" tvg-name="港台電視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",RTHK32-2
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1,now直播台1
 http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -25,29 +25,29 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1,有線綜合娛樂台 HD
 http://livetv.dnsfor.me:80/channel.7.m3u8
-#EXTINF:-1,開電視1
+#EXTINF:-1 tvg-id="771" tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="[Fan] 奇妙電視",開電視1
 http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1,開電視2
+#EXTINF:-1 tvg-id="772" tvg-name="香港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="[Fan] 奇妙電視",開電視2
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1,TVB 翡翠台
+#EXTINF:-1 tvg-id="811" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",TVB 翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1,TVB 明珠台
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1,J2
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",J2
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1,無綫新聞台1
+#EXTINF:-1 tvg-id="831" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台1
 http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1,無綫新聞台2
+#EXTINF:-1 tvg-id="832" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台2
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-#EXTINF:-1,無綫新聞台3
+#EXTINF:-1 tvg-id="833" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台3
 http://www.chahaoquan.com/wz/epg/tvb.php?id=3
-#EXTINF:-1,無綫新聞台4
+#EXTINF:-1 tvg-id="834" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台4
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1,無綫財經資訊台1
+#EXTINF:-1 tvg-id="851" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="[TVB] 電視廣播",無綫財經資訊台1
 http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1,無綫財經資訊台2
+#EXTINF:-1 tvg-id="852" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="[TVB] 電視廣播",無綫財經資訊台2
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-#EXTINF:-1,無綫財經資訊台3
+#EXTINF:-1 tvg-id="853" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="[TVB] 電視廣播",無綫財經資訊台3
 http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 #EXTINF:-1,香港電台視像新聞直播
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
@@ -56,7 +56,7 @@ http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1,Now Sports Prime 630
 #EXTINF:-1,HKS香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1,ViuTV
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="[Viu] 香港電視娛樂",ViuTV
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1,ViuTVsix
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTVsix
 http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
